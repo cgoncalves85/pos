@@ -1,0 +1,64 @@
+@page {
+	margin: 0.5cm 1cm;
+}
+
+#content {
+	padding: 0px;
+}
+
+.lbl-dato-cliente {
+	width: 20cm;
+}
+
+.lbl-view-title {
+    text-transform: uppercase; 
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 5px;  
+}
+
+.lbl-nombre-tienda {
+	font-size: 22px;
+    text-transform: uppercase; 
+    font-weight: bold;
+}
+
+.lbl-cif {
+	font-size: 12px;
+    text-transform: uppercase; 
+    font-weight: bold;
+}
+
+.lbl-direccion {
+	font-size: 11px;
+    text-transform: uppercase; 
+    font-weight: bold;
+}
+
+.lbl-view {
+	padding-top: 10px;
+    font-size: 12px !important;
+    text-transform: uppercase;  
+}
+
+.dato {
+	margin-bottom: 1cm;
+}
+
+.tabla {
+	margin-top: 10px;
+	border: 1px solid #ccc;
+}
+
+.border {
+	font-size: 12px;
+	padding: 15px;
+	border: 1px solid #ccc;
+	text-transform: uppercase;
+}
+
+.border-nro {
+	padding: 8px 0px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	text-transform: uppercase;
+}
